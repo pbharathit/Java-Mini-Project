@@ -1,0 +1,379 @@
+//For Compiling :javac SnakeNLadderTest.java
+//For Running: java SnakeNLadderTest
+
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:0 but take 1
+First Player :: 1
+Second Player :: 0
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:6
+climb up the ladder
+First Player :: 1
+Second Player :: 25
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:3
+First Player :: 4
+Second Player :: 25
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:4
+First Player :: 4
+Second Player :: 29
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:4
+First Player :: 8
+Second Player :: 29
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:4
+First Player :: 8
+Second Player :: 33
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:4
+First Player :: 12
+Second Player :: 33
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:1
+First Player :: 12
+Second Player :: 34
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:0 but take 1
+First Player :: 13
+Second Player :: 34
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:4
+First Player :: 13
+Second Player :: 38
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:5
+First Player :: 18
+Second Player :: 38
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:1
+First Player :: 18
+Second Player :: 39
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:1
+First Player :: 19
+Second Player :: 39
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:5
+First Player :: 19
+Second Player :: 44
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:6
+First Player :: 25
+Second Player :: 44
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:2
+climb up the ladder
+First Player :: 25
+Second Player :: 90
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:6
+First Player :: 31
+Second Player :: 90
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:6
+First Player :: 31
+Second Player :: 96
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:2
+First Player :: 33
+Second Player :: 96
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:1
+First Player :: 33
+Second Player :: 97
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:6
+First Player :: 39
+Second Player :: 97
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:2
+swallowed by snake
+First Player :: 39
+Second Player :: 54
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:1
+First Player :: 40
+Second Player :: 54
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:4
+First Player :: 40
+Second Player :: 58
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:5
+First Player :: 45
+Second Player :: 58
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:0 but take 1
+First Player :: 45
+Second Player :: 59
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:1
+climb up the ladder
+First Player :: 90
+Second Player :: 59
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:0 but take 1
+climb up the ladder
+First Player :: 90
+Second Player :: 85
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:3
+First Player :: 93
+Second Player :: 85
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:3
+First Player :: 93
+Second Player :: 88
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:4
+First Player :: 97
+Second Player :: 88
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:5
+First Player :: 97
+Second Player :: 93
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:1
+First Player :: 98
+Second Player :: 93
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:2
+swallowed by snake
+First Player :: 98
+Second Player :: 72
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:4
+First Player :: 98
+Second Player :: 72
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:5
+First Player :: 98
+Second Player :: 77
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:6
+First Player :: 98
+Second Player :: 77
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:5
+First Player :: 98
+Second Player :: 82
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:5
+First Player :: 98
+Second Player :: 82
+------------------
+
+
+SECOND PLAYER TURN
+Press r to roll Dice
+r
+dice value:4
+First Player :: 98
+Second Player :: 86
+------------------
+
+
+FIRST PLAYER TURN
+Press r to roll Dice
+r
+dice value:2
+First Player :: 100
+Second Player :: 86
+------------------
+First player wins
